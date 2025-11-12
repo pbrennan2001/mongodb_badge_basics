@@ -2,7 +2,7 @@
 MongoDB Training for Class
 
 ## MongoDB Overview
-![Overview](images/overview.png)
+![Overview](overview.png)
 
 ## Relational to Document Model
 https://www.credly.com/badges/62330ad0-4eb3-4b2a-bd7c-7142bc0b9479/public_url
